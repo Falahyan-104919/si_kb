@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "548760399708",
+    "project_id": "auth-learning-b186b",
+    "storage_bucket": "auth-learning-b186b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548760399708:android:57244c7c9a1a7536265b99",
+        "android_client_info": {
+          "package_name": "com.example.auth_learn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548760399708-2enhjekttunrard2kr7qt36bkp2brtk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth_learn",
+            "certificate_hash": "76ee9d83e906734f31522e0cd7440eec84c440d1"
+          }
+        },
+        {
+          "client_id": "548760399708-mj1b4ievi39sja1bpu24a5tplcdb7d8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmdKdHD6e4xE33jas_68kph6ZklowFZRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548760399708-mj1b4ievi39sja1bpu24a5tplcdb7d8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
